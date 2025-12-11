@@ -1,4 +1,4 @@
-# Professional Portfolio Website - Franz Brian Razon
+# Professional Portfolio Website - John Wayne Diaz
 
 A modern, responsive portfolio website showcasing web development skills and projects. Built with **semantic HTML5**, **modern CSS3** (Flexbox & Grid), and **vanilla JavaScript**, this project demonstrates **best practices in web development**, including accessibility, responsive design, and clean code architecture.
 
@@ -99,4 +99,5 @@ A modern, responsive portfolio website showcasing web development skills and pro
 - Modern web browser (Chrome, Firefox, Safari, Edge)  
 - Text editor (VS Code recommended)  
 - Git installed (for cloning)
+
 
